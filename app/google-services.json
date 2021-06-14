@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "172119274295",
+    "project_id": "matemate-9e0f3",
+    "storage_bucket": "matemate-9e0f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172119274295:android:8cca3bc1d1b283873c20b2",
+        "android_client_info": {
+          "package_name": "com.example.mate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172119274295-mhrk3k079k7gu7dgestvkgcubu7s9tr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEGPrQOt_WU18VFOLNTGnii8EPhwWJlbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172119274295-mhrk3k079k7gu7dgestvkgcubu7s9tr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
